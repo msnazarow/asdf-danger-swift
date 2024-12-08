@@ -61,7 +61,7 @@ install_version() {
 		mkdir -p "$install_path"
 		cp -r "$ASDF_DOWNLOAD_PATH"/* "$install_path"
 		cd $install_path
-		make install PREFIX="$install_path"
+		make install PREFIX="${install_path%/bin}"
 		# TODO: Assert danger-swift executable exists.
 		local tool_cmd
 		tool_cmd="$(echo "$TOOL_TEST" | cut -d' ' -f1)"
