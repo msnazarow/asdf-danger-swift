@@ -1,6 +1,6 @@
 <div align="center">
 
-# asdf-danger-swift [![Build](https://github.com/danger/asdf-danger-swift/actions/workflows/build.yml/badge.svg)](https://github.com/danger/asdf-danger-swift/actions/workflows/build.yml) [![Lint](https://github.com/danger/asdf-danger-swift/actions/workflows/lint.yml/badge.svg)](https://github.com/danger/asdf-danger-swift/actions/workflows/lint.yml)
+# asdf-danger-swift [![Build](https://github.com/msnazarow/asdf-danger-swift/actions/workflows/build.yml/badge.svg)](https://github.com/msnazarow/asdf-danger-swift/actions/workflows/build.yml) [![Lint](https://github.com/msnazarow/asdf-danger-swift/actions/workflows/lint.yml/badge.svg)](https://github.com/msnazarow/asdf-danger-swift/actions/workflows/lint.yml)
 
 [danger-swift](https://danger.systems/swift/) plugin for the [asdf version manager](https://asdf-vm.com).
 
@@ -27,7 +27,7 @@ Plugin:
 ```shell
 asdf plugin add danger-swift
 # or
-asdf plugin add danger-swift https://github.com/danger/asdf-danger-swift.git
+asdf plugin add danger-swift https://github.com/msnazarow/asdf-danger-swift.git
 ```
 
 danger-swift:
@@ -53,7 +53,7 @@ install & manage versions.
 
 Contributions of any kind welcome! See the [contributing guide](contributing.md).
 
-[Thanks goes to these contributors](https://github.com/danger/asdf-danger-swift/graphs/contributors)!
+[Thanks goes to these contributors](https://github.com/msnazarow/asdf-danger-swift/graphs/contributors)!
 
 # License
 
