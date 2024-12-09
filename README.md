@@ -57,4 +57,4 @@ Contributions of any kind welcome! See the [contributing guide](contributing.md)
 
 # License
 
-See [LICENSE](LICENSE) © [Михаил Назаров](https://github.com/danger/)
+See [LICENSE](LICENSE) © [Михаил Назаров](https://github.com/msnazarow/)

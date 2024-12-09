@@ -3,7 +3,7 @@
 set -euo pipefail
 
 # TODO: Ensure this is the correct GitHub homepage where releases can be downloaded for danger-swift.
-GH_REPO="https://github.com/danger/swift"
+GH_REPO="https://github.com/msnazarow/swift"
 TOOL_NAME="danger-swift"
 TOOL_TEST="danger-swift --version"
 
